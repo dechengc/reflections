@@ -1,1 +1,2 @@
 create a .git folder. git init.
+you cannot change the file in the staging area. the status of the working directionary.
