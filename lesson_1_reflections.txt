@@ -1,0 +1,8 @@
+I can see the difference between two files so I can easily see the potential position of the bug.
+You can easily find the bug and you can have a summary of the project progress.
+pros: manually choosing is logically and meaningful.
+cons: cost time to do it.
+have some connection
+don't know, just use it.
+You can get back easily.
+not thinking about it
