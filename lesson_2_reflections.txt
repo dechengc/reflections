@@ -1,2 +1,4 @@
 create a .git folder. git init.
 you cannot change the file in the staging area. the status of the working directionary.
+use git diff and git diff --staged to make sure that you have one commit.
+when to make different version of the project. To make different branches.
