@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 Forks usually works when you contribute to other people's work. Clones works on clone repository in local or from remote to local. Branch works in the situation when you want to make changes in your works.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To see the changes from the remote to local
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+We would meet together and discuss. Then we will work on our computer alone. 
